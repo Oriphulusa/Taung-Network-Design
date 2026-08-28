@@ -53,15 +53,6 @@ within Cat6 tolerance, with a PoE-switch upgrade path identified for later).
 
 ---
 
-## Documentation
-
-- [Client Requirements](docs/01-CLIENT-REQUIREMENTS.md)
-- [Physical Topology](docs/02-PHYSICAL-TOPOLOGY.md)
-- [Logical Topology](docs/03-LOGICAL-TOPOLOGY.md)
-- [IP Addressing Plan](docs/04-IP-ADDRESSING-PLAN.md)
-
----
-
 ## Status
 
 Design phase complete. Next: Cisco Packet Tracer implementation, DNS 
