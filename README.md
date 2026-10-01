@@ -55,9 +55,9 @@ within Cat6 tolerance, with a PoE-switch upgrade path identified for later).
 
 ## Status
 
-Design phase complete. Next: Cisco Packet Tracer implementation, DNS 
-configuration and testing, ACL enforcement, and full connectivity testing.
-
+Design and implementation complete. The network has been built and tested in 
+Cisco Packet Tracer, with inter-VLAN routing, DHCP, internal DNS, and ACL-based 
+guest isolation all verified — see [Testing Evidence](docs/05-TESTING-EVIDENCE.md).
 ---
 
 *Academic context: CMPG 325 — Computer Networks, North-West University. 
